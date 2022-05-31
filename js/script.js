@@ -24,7 +24,7 @@ const loop = setInterval(() => {
     mario.src = './images/ojogo.png'
 
     mario.style.width = '500px'
-    mario.style.marginLeft = '300px'
+    mario.style.marginLeft = '400px'
 
     clearInterval(loop)
   }
